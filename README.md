@@ -6,10 +6,10 @@
 
 #### WEB DEV JOURNEY
 
--	CS50x from Harvard University
--	Fundamentals of HTML and CSS from Interneting is Hard
--	JavaScript from FreeCodeCamp
--	Full-Stack Web Development with React Specialization from Coursera
+- CS50x from Harvard University
+- Fundamentals of HTML and CSS from Interneting is Hard
+- JavaScript from FreeCodeCamp
+- Full-Stack Web Development with React Specialization from Coursera
 - Tons of YouTube videos and StackOverflow pages 
 
 #### BIO
