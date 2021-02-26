@@ -12,6 +12,7 @@
 -	Full-Stack Web Development with React Specialization from Coursera
 - Tons of YouTube videos and StackOverflow pages 
 
+#### BIO
 
 - 🏢 I'm currently exploring opportunities in Tech
 - ⚙️ Tech I use: JavaScript, HTML, CSS, React, MongoDB, Express, NodeJs, Git
@@ -20,7 +21,7 @@
 - 📫 Reach me: amenezes927@gmail.com
 - ⚡️ Fun fact: I love gaming and playing football
 
-#### BIO
+
 
 
 
