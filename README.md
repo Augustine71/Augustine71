@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 
-**Augustine71/Augustine71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a self taught Jr. Full-Stack Developer from Mangalore, India.
+
+
+#### Web Dev Journey
+
+-	CS50x from Harvard University
+-	Fundamentals of HTML and CSS from Interneting is Hard
+-	JavaScript from FreeCodeCamp
+-	Full-Stack Web Development with React Specialization from Coursera
+
 
 Here are some ideas to get you started:
 
