@@ -14,7 +14,7 @@
 
 #### BIO
 
- 🏢 I'm currently exploring opportunities in Tech
+ 🏢 I'm currently exploring opportunities in Tech\
  ⚙️ Tech I use: JavaScript, HTML, CSS, React, MongoDB, Express, NodeJs, Git
 - 🌟 3 stars in Problem Solving on HackerRank
 - 💬 Ping me about MERN stack development
