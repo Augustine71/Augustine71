@@ -12,14 +12,22 @@
 -	Full-Stack Web Development with React Specialization from Coursera
 - Tons of YouTube videos and StackOverflow pages 
 
+
+🏢 I'm currently exploring opportunities in Tech
+⚙️ Tech I use: JavaScript, HTML, CSS, React, MongoDB, Express, NodeJs, Git
+🌟 3 stars in Problem Solving on HackerRank
+💬 Ping me about MERN stack development
+📫 Reach me: amenezes927@gmail.com
+⚡️ Fun fact: I love gaming and playing football
+
 #### BIO
 
-	- 🏢 I'm currently exploring opportunities in Tech
-	- ⚙️ Tech I use: JavaScript, HTML, CSS, React, MongoDB, Express, NodeJs, Git
-	- 🌟 3 stars in Problem Solving on HackerRank
-	- 💬 Ping me about MERN stack development
-	- 📫 Reach me: amenezes927@gmail.com
-	- ⚡️ Fun fact: I love gaming and playing football
 
 
 
+	 🏢 I'm currently exploring opportunities in Tech
+	 ⚙️ Tech I use: JavaScript, HTML, CSS, React, MongoDB, Express, NodeJs, Git
+	 🌟 3 stars in Problem Solving on HackerRank
+	 💬 Ping me about MERN stack development
+	 📫 Reach me: amenezes927@gmail.com
+	 ⚡️ Fun fact: I love gaming and playing football
