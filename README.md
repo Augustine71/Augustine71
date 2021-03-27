@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I'm a self taught Jr. Full-Stack Developer from Mangalore, India.
+#### I'm a Junior Full-Stack Developer from Mangalore, India.
 
 
 #### WEB DEV JOURNEY
