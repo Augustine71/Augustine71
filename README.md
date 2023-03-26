@@ -4,8 +4,8 @@
 #### I'm a Frontend React Developer from Mangalore, India.
 
 #### WORK EXPERIENCE
-Worked as SDE-1 at Mosaic Wellness, a popular e-commerce platform in the digital health & wellness space
-
+- Worked as SDE-1 at Mosaic Wellness, a popular e-commerce platform in the digital health & wellness space
+- 8 months experience developing multiple end-to-end landing pages with rich modern UI components
 
 #### WEB DEV LEARNING PATH
 
@@ -19,7 +19,7 @@ Worked as SDE-1 at Mosaic Wellness, a popular e-commerce platform in the digital
 #### BIO
 
  🏢 I'm currently exploring opportunities in Tech\
- ⚙️ Tech I use: JavaScript, HTML, CSS, React, Express, Node.js, Git\
+ ⚙️ Tech I use: JavaScript, HTML, CSS, React, PHP, Express, Node.js, Git\
  🌟 3 stars in Problem Solving on HackerRank\
  💬 Ping me about MERN stack development\
  📫 Reach me: amenezes927@gmail.com\
